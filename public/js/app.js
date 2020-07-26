@@ -1,4 +1,4 @@
-console.log('client side js file')
+// console.log('client side js file')
 // const fetch = require("node-fetch");
 // fetch('http://puzzle.mead.io/puzzle').then((response)=>{
 //     response.json().then((data)=>{
